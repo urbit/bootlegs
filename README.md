@@ -1,2 +1,1 @@
-# bootlegs
-bootleg merch graphics, for free use
+We'll use this site to host public-accessible graphics for bootleg merch production.
